@@ -222,6 +222,7 @@
     "wpackagist-plugin/mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
     "wpackagist-plugin/pdf-embedder": "*",
+    "wpackagist-plugin/plugin-load-filter": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-admin-ui-customize": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
