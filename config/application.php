@@ -121,7 +121,7 @@ Config::define('AS3CF_SETTINGS', serialize([
   'copy-to-s3' => true,
   'serve-from-s3' => true,
   'domain' => 'cloudfront',
-  'cloudfront' => 'static.babypad.jp',
+  'cloudfront' => 'ukita.gr.jp',
   'enable-object-prefix' => true,
   'object-prefix' => env('DOMAIN_NAME') . '/uploads/',
   'use-yearmonth-folders' => true,
