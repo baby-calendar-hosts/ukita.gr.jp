@@ -1191,15 +1191,15 @@
         },
         {
             "name": "wpackagist-plugin/admin-menu-editor",
-            "version": "1.9.7",
+            "version": "1.9.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/admin-menu-editor/",
-                "reference": "tags/1.9.7"
+                "reference": "tags/1.9.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/admin-menu-editor.1.9.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/admin-menu-editor.1.9.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1407,15 +1407,15 @@
         },
         {
             "name": "wpackagist-plugin/my-calendar",
-            "version": "3.2.9",
+            "version": "3.2.10",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/my-calendar/",
-                "reference": "tags/3.2.9"
+                "reference": "tags/3.2.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.2.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.2.10.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
