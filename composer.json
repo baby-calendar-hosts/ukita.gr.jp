@@ -206,7 +206,6 @@
     "wpackagist-plugin/pdf-embedder": "4.4",
     "wpackagist-plugin/plugin-load-filter": "*",
     "wpackagist-plugin/post-types-order": "*",
-    "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/reusable-blocks-extended": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/show-current-template": "*",
